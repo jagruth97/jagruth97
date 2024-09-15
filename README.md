@@ -19,6 +19,7 @@ I'm a TECH Enthusiast. I'm currently enhancing myself with Backend development.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jagruth97&icon=2&color=6)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=jagruth97&icon=2&color=6)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=jagruth97&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
