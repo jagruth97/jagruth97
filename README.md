@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a TECH Enthusiast. I'm currently enhancing myself with Backend development.
+I'm a TECH Enthusiast having interest on Development, CyberSec, Networks and Coding.
 
 
 ## 🌐 Socials:
